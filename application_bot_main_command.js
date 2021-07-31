@@ -3,6 +3,9 @@
 //Slappey is a discord.js project helper which makes file for you( NO CODING PART AFFECTED )
 //https://www.npmjs.com/package/slappey
 //just paste all these codes below line 1 ( const BaseCommand = require('../../utils/structures/BaseCommand'); )
+
+//CONTACT: Somanjit.js#5196    FOR HELP
+
 const Discord = require('discord.js');
 
 module.exports = class ApplicationCommand extends BaseCommand {
