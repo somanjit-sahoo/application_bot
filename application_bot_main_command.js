@@ -1,4 +1,4 @@
-//SLAPPEY IS USED TO MAKE THE COMMAND
+//SLAPPEY WAS USED TO MAKE THIS COMMAND
 //npm i slappey
 //Slappey is a discord.js project helper which makes file for you( NO CODING PART AFFECTED )
 //https://www.npmjs.com/package/slappey
