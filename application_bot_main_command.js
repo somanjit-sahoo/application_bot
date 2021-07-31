@@ -57,8 +57,8 @@ module.exports = class ApplicationCommand extends BaseCommand {
           .setTitle('New Submission!')
           .setDescription(mappedResponses)
           .setColor('#E76DE5')
-          .setTimestamp()
-          .setFooter('Made by Somanjit.js#5196');
+          .setFooter('Made by Somanjit.js#5196')
+          .setTimestamp();
           //DON'T EDIT THE EMBED EXCEPT .setTitle AND .setColor
       )
       }
