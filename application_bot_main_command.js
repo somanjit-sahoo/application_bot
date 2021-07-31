@@ -58,6 +58,7 @@ module.exports = class ApplicationCommand extends BaseCommand {
           .setDescription(mappedResponses)
           .setColor('#E76DE5')
           .setTimestamp()
+          .setFooter('Made by Somanjit.js#5196');
           //DON'T EDIT THE EMBED EXCEPT .setTitle AND .setColor
       )
       }
